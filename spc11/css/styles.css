@@ -1,0 +1,162 @@
+#body {
+    width:1078px;
+    height: 1000px;
+    margin: 0px;
+    padding: 0px;
+    background: url("../images/background.png");
+    background-repeat: no-repeat;
+}
+
+#logo {
+    position: relative;
+    left: -365px;
+    top: 85px;
+    width: 146px;
+    height: 73px;
+    margin: 0px;
+    padding: 0px;
+    background: url("../images/logo.png");
+}
+
+div#logo a {
+    display: block;
+    font-size: 0px;
+    width: 146px;
+    height: 73px;
+}
+
+#menu {
+    position: relative;
+    top: 190px;
+    left: -15px;
+    width: 920px;
+    height: 32px;
+}
+
+.button {
+    position: relative;
+   /* width: 135px;*/
+    height: 32px;
+    margin: 0px 7px 0px 8px;
+    padding: 0px;
+    border: 0px;
+    float: left;
+}
+
+.btn_left {
+    position: relative;
+    width: 12px;
+    height: 32px;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    float:left;
+    background: url("../images/button_left.png");
+}
+
+.btn_main {
+    position: relative;
+    height: 32px;
+    border: 0px;
+    float:left;
+    margin: 0px;
+    padding: 5px 0px 0px 0px;
+    background: url("../images/button_bg.png");
+    background-repeat: repeat-x;
+    text-align: left;
+    vertical-align: bottom;
+}
+
+.btn_right {
+    position: relative;
+    width: 12px;
+    height: 32px;
+    margin: 0px;
+    padding: 0px;
+    clear: none;
+    border: 0px;
+    float: left;
+    background: url("../images/button_right.png");
+}
+
+.LED {
+    position: relative;
+    float: left;
+    top: -9px;
+    left: -12px;
+    margin: 0px;
+    padding: 0px;
+    border: none;
+}
+
+.txt {
+    position: relative;
+    padding: 0px;
+    margin: 0px;
+    left: -15px;
+    top: 2px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 13pt;
+    color: #51372b;
+    font-family: Arial,monospace;
+}
+
+a {
+    text-decoration: underline;
+    color: #e5cba1;
+    font-weight: bold;
+}
+
+a:hover, a.next:hover {
+    color:#e62002;
+}
+
+a.nu {
+    text-decoration: none;
+}
+
+a.next {
+    font-size:20pt;
+    font-weight:bold;
+    text-decoration:none;
+    color:#e5cba1;
+}
+
+#content {
+    position: relative;
+    top: 200px;
+    width:700px;
+    min-height: 300px;
+    margin: 0px;
+    padding: 20px 70px 0px 70px;
+    text-align: left;
+    font-size:14pt;
+    font-family: Arial, calibri;
+    color: #e5cba1;
+    float: left;
+}
+
+#r_column {
+    position: relative;
+    top: 200px;
+    float: right;
+    width: 183px;
+    margin: 0px 50px 0px 0px;
+    padding: 0px;
+}
+
+#table_pict {
+    position: relative;
+    width: 183px;
+    height: 51px;
+    margin: 20px 0px 20px 0px;
+    padding: 0px;
+    background: url("../images/pictures.png");
+}
+
+img.r_col {
+    border: none;
+    padding: 0px;
+    margin: 0px;
+}
