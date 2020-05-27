@@ -1,0 +1,175 @@
+h1 {text-align:center;
+font-family:"Comic Sans MS", cursive}
+#background {
+	position:absolute;
+	top:0px;
+	padding:0px;
+	margin:0px 0px 0px 0px;
+	z-index: -1;
+}
+#b_logo {
+	position:relative;
+	top:0px;
+	left:-20px;
+	float:left;
+	padding: 10px 20px 10px 0px;
+	z-index:2;
+}
+#s_logo {
+	padding:0px;
+	position:relative;
+	top:0px;
+	left:-50px;
+}
+#head {
+	width:900px;
+	height:120px;
+}
+#menu {
+	float:left;
+	padding:0px 0px 0px 0px;
+	list-style:none;
+	z-index:2;
+	
+}
+.m_left{
+	float:left;
+	width:10px;
+	height:40px;
+	padding:0px 0px 0px 0px;
+}
+.m_center{
+	font-family:"Comic Sans MS", cursive;
+	float:left;
+	height:30px;
+	padding:5px 0px 5px 40px;
+	width:170px;
+}
+.m_right{
+	float:right;
+	width:10px;
+	height:40px;
+	padding:0px 0px 0px 0px;
+}
+.space{
+	padding:0px;
+	margin:0px;
+	font-size:10px;
+	float:none;
+}
+#m_item1, #m_item2, #m_item3, #m_item4, #m_item5, #m_item6 {
+	width: 230px;
+	padding:0px 0px 0px 0px;
+	margin: 0px 0px 0px 0px;
+	font-size:20px;
+	clear:both;
+	z-index:2;
+}
+#m_item1 .m_center{
+	background:#fadf76;
+}
+
+#m_item2 .m_center {
+	background:#fba51e;
+}
+#m_item3 .m_center {
+	background:#76c043;
+}
+#m_item4 .m_center {
+	background:#0f72b6;
+}
+#m_item5 .m_center {
+	background:#08558b;
+}
+#m_item6  .m_center{
+	background:#053253;
+}
+a.dummy {
+	color:#000;
+	text-decoration:none;
+}
+img {border:0px;}
+#content {
+	padding-left:50px;
+	z-index:1;
+}
+#schedule1{
+	position:relative;
+	float:both;
+}
+#schedule2{
+	position:relative;
+	width:0px;
+	float:right;
+	display:none;
+}
+a.big_link {
+	color:#900;
+	font-size:16pt;
+	font-weight:bold;
+}
+a:focus {
+	outline: none;
+}
+p {font-size:14pt;
+	z-index:1;}
+p.center {text-align:center}
+.no_under {
+	text-decoration:none;
+}
+.button {
+	padding:5px 0px 5px 0px;
+	background:#0CF;
+	border-style:groove;
+	border-width:1px;
+	margin:0pt;
+	border-color:#000;
+	font-size:18px;
+}
+.button:hover {
+	background:#0FF;
+}
+#info {position:absolute;
+top:50%;
+left:50%;
+margin-left:-200px;
+margin-top:-200px;
+background:#fff;
+width:400px;
+height:400px;
+border:#000 solid;
+z-index:200;
+display:none;}
+#close{position:absolute;
+	left:365px;
+top:0px;
+float:both;}
+#mo {
+	position:relative;
+
+}
+#media {
+	position:relative;
+}
+#participant{
+	position:relative;
+}
+#smo{
+	position:relative;
+
+}
+#party{
+	position:relative;
+}
+#fr{
+	position:relative;
+}
+#cul {
+	position:relative;
+}
+#it {
+	position:relative;
+}
+#log{
+	position:relative;
+}
