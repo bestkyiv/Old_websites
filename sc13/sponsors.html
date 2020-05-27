@@ -1,0 +1,52 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>SC'13: PUBlishing - Create it! Design it! Print it!</title>
+<link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<link href='http://fonts.googleapis.com/css?family=Marck+Script|Neucha|Bad+Script&subset=latin,cyrillic' rel='stylesheet' type='text/css' />
+<link href='http://fonts.googleapis.com/css?family=Quintessential' rel='stylesheet' type='text/css' />
+<style type="text/css">@import url("css/style.css");</style>
+<link href="css/jquery.mCustomScrollbar.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="background">
+	<a href="http://best-kyiv.org/"><img class="logo" src="images/best_kyiv_favicon.png"></a>
+	<span class="date">4 - 14 July 2013, Kyiv, Ukraine</span>
+	<span class="side-nav readers">
+		<a href="readers">READERS</a>
+	</span>
+	<span class="nav-links"><a href="index">HOME</a> | <a href="schedule.pdf">SCHEDULE</a> | <a href="survival.pdf">SURVIVAL GUIDE</a> | <a href="sponsors">SPONSORS</a></span>
+	<span class="side-nav editors">
+		<a href="staff">EDITORS</a>
+	</span>
+	<div id="content" class="sponsors">
+		<a href="http://studprofkom.kpi.ua/"><img src="images/profkom_logo_h150px.jpg" /></a>
+		<a href="http://kpi.ua/"><img src="images/kpi_logo_h150px.png" /></a>
+		<a href="http://www.biola.ua/"><img src="images/biola_logo_h150px.png" /></a>
+		<a href="http://www.3bears.com.ua/"><img src="images/3bears_logo_h150px.png" /></a>
+	</div>
+	<span id="footer">
+		Designed by Ivashkina Lena, coded by Dmitry Fedorov &copy; LBG Kyiv, 2013 - All Rights Reserved.
+	</span>
+</div>
+
+<!-- Get Google CDN's jQuery and jQuery UI with fallback to local -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+    <script>!window.jQuery && document.write(unescape('%3Cscript src="js/jquery-1.8.3.min.js"%3E%3C/script%3E'))</script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.9/jquery-ui.min.js"></script>
+    <script>!window.jQuery.ui && document.write(unescape('%3Cscript src="js/jquery-ui-1.9.1.custom.min.js"%3E%3C/script%3E'))</script>
+    <!-- mousewheel plugin -->
+    <script src="js/jquery.mousewheel.min.js"></script>
+    <!-- custom scrollbars plugin -->
+    <script src="js/jquery.mCustomScrollbar.min.js"></script>
+    <script>
+      (function($){
+        $(window).load(function(){
+          $("#content").mCustomScrollbar();
+        });
+      })(jQuery);
+    </script>
+	
+</body>
+</html>
