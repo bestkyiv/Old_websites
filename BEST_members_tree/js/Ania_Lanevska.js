@@ -1,0 +1,40 @@
+var AniaL_tree = 
+[
+{name: "Anna Lanevska",     angel: null,     tooltip: "BEST creator", vk: "id3687624"},
+{name: "Svitlana Iezgor",     angel: "Anna Lanevska",     tooltip: null, vk: "best.kyiv"},
+{name: "Anastasiia Mishchuk",     angel: "Anna Lanevska",    tooltip: "Alumni!\nBEST grand-mother ever!", vk: "id2450888"},
+{name: "Ania Arhipova",     angel: "Anna Lanevska",     tooltip: null, vk: "best.kyiv"},
+{name: "Yulia Kryzhanovska",     angel: "Svitlana Iezgor",    tooltip: null, vk: "best.kyiv"},
+{name: "Paslavskij Mark",     angel: "Svitlana Iezgor",     tooltip: null, vk: "best.kyiv"},
+{name: "Dmitriy Strashko",     angel: "Svitlana Iezgor",     tooltip: null, vk: "best.kyiv"},
+{name: "Kulbachka Egor",     angel: "Anastasiia Mishchuk",    tooltip: null, vk: "best.kyiv"},
+{name: "Tetiana Nechaieva",     angel: "Anastasiia Mishchuk",    tooltip: null, vk: "best.kyiv"},
+{name: "Oleksii Potapenko",     angel: "Anastasiia Mishchuk",   tooltip: null, vk: "best.kyiv"},
+{name: "Iuliia Iurchenko",     angel: "Anastasiia Mishchuk",    tooltip: "Full-memebr!\nBEST mother ever!", vk: "id2472425"},
+{name: "Julia Kralina",     angel: "Oleksii Potapenko",    tooltip: null, vk: "best.kyiv"},
+{name: "Mikhail Lortkipanidze",     angel: "Oleksii Potapenko",  tooltip: null, vk: "best.kyiv"},
+{name: "Zenich Alina",     angel: "Julia Kralina",    tooltip: null, vk: "best.kyiv"},
+{name: "Korsun Oleksandr",     angel: "Julia Kralina",    tooltip: null, vk: "best.kyiv"},
+{name: "Marina Shalko",     angel: "Korsun Oleksandr",    tooltip: null, vk: "best.kyiv"},
+{name: "Stefan Jaroslav",     angel: "Tetiana Nechaieva",    tooltip: null, vk: "best.kyiv"},
+{name: "Iurii Lukash",     angel: "Iuliia Iurchenko",    tooltip: "This tree creator",  vk:"id2264842"},
+{name: "Olga Bryndzia",     angel: "Iuliia Iurchenko",    tooltip: null, vk: "best.kyiv"},
+{name: "Filatov Evgen",     angel: "Iuliia Iurchenko",    tooltip: null, vk: "best.kyiv"},
+{name: "Mariia Khandus",     angel: "Kulbachka Egor",    tooltip: null, vk: "best.kyiv"},
+{name: "Kupreev Denis",     angel: "Kulbachka Egor",    tooltip: null, vk: "best.kyiv"},
+{name: "Ignatchenko Bogdan",     angel: "Mariia Khandus",    tooltip: null, vk: "best.kyiv"},
+{name: "Kseniya Soroka",     angel: "Ania Arhipova",     tooltip: null, vk: "best.kyiv"},
+{name: "Chigir Katja",     angel: "Ania Arhipova",     tooltip: null, vk: "best.kyiv"},
+{name: "Matvijchuk Jarik",     angel: "Olga Bryndzia",    tooltip: null, vk: "best.kyiv"},
+{name: "Batarin Oleksandr",     angel: "Kseniya Soroka",     tooltip: null, vk: "best.kyiv"},
+{name: "Natalia Matveeva",     angel: "Iurii Lukash",    tooltip: "Full-memebr!\nBEST doughter ever!", vk: "tiuru"},
+{name: "Nastia Artiuh",     angel: "Iurii Lukash",    tooltip: "Baby-memebr!\nBEST doughter ever!", vk: "id100080229"},
+{name: "Dmytro Arbuzin",     angel: "Mikhail Lortkipanidze", tooltip: null, vk: "best.kyiv"},
+{name: "Ivanicja Irina",     angel: "Mikhail Lortkipanidze", tooltip: null, vk: "best.kyiv"},
+{name: "Losinec Jurij",    angel: "Yulia Kryzhanovska",   tooltip: null, vk: "best.kyiv"},
+{name: "Kateryna Shubina",    angel: "Yulia Kryzhanovska",   tooltip: null, vk: "best.kyiv"},
+{name: "Mazurik Irina",    angel: "Yulia Kryzhanovska",   tooltip: null, vk: "best.kyiv"}
+]
+
+
+ 
